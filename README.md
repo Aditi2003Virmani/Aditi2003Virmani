@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Aditi2003Virmani
-- 👀 I’m interested in IT Background
-- 🌱 I’m currently learning WEB/APP DEVELOPMENT and pursuing my UG degree in IT.
-- 🏢Previously i worked as an operation associate from Firstcry.com(for 6 months)
-- 🏢 Also i had a experience as a customer service executive from Bajaj Finance Ltd.(10 months)
-- 📫 How to reach me github.com/Aditi2003Virmani
+# Hi there, I'm Aditi! 👋
+
+I am a data analyst passionate about extracting meaningful insights from data and making data-driven decisions.
+
+- 🔭 I’m currently working on Data Analysis Projects,Data Visualization,learning new tools and technologies
+- 🌱 I’m currently learning Data Visualization Tools -Power BI, Looker Studio
+- 👯 I’m looking to collaborate on Data Analysis Projects,Data Visualization,Open Source Contributions
+- 💬 Ask me about:
+ -Data Analysis
+ -Machine Learning
+ -Data Visualization
+ -python  Programming
+ -SQL and Database Management
+
+- 📫 How to reach me: aditivirmani37@gmail.com
+- 📄 Know about my experiences: [[LinkedIn Profile]](https://www.linkedin.com/in/aditi-virmani-70558a228/)
 
 
-<!---
-Aditi2003Virmani/Aditi2003Virmani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Statestical Alalysis
+- SQL
+- Python
+- Data Visualization Tools - Advanced Excel, Tableau, Power BI, Looker Studio
