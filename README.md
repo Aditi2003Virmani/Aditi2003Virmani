@@ -3,7 +3,7 @@
 I am a data analyst passionate about extracting meaningful insights from data and making data-driven decisions.
 
 - 🔭 I’m currently working on Data Analysis Projects,Data Visualization,learning new tools and technologies
-- 🌱 I’m currently learning Data Visualization Tools -Power BI, Looker Studio
+- 🌱 I’m practicing and making projects Data Visualization Tools -Power BI, Looker Studio
 - 👯 I’m looking to collaborate on Data Analysis Projects,Data Visualization,Open Source Contributions
 - 💬 Ask me about:
  -Data Analysis
